@@ -1,12 +1,4 @@
-# Python
-__pycache__/
-*.py[cod]
-*.pkl
-*.csv
-*.json
-.env
+
 .venv/
 .data/
 
-# VS Code
-.vscode/
