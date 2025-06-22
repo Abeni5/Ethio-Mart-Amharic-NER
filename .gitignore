@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.csv
+*.json
+.env
+.venv/
+
+# VS Code
+.vscode/
